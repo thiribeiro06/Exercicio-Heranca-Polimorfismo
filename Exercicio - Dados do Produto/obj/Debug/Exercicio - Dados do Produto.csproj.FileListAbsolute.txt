@@ -1,0 +1,8 @@
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio - Dados do Produto\Exercicio - Dados do Produto\obj\Debug\Exercicio - Dados do Produto.csproj.AssemblyReference.cache
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio - Dados do Produto\Exercicio - Dados do Produto\obj\Debug\Exercicio - Dados do Produto.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio - Dados do Produto\Exercicio - Dados do Produto\obj\Debug\Exercicio - Dados do Produto.csproj.CoreCompileInputs.cache
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio - Dados do Produto\Exercicio - Dados do Produto\bin\Debug\Exercicio - Dados do Produto.exe.config
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio - Dados do Produto\Exercicio - Dados do Produto\bin\Debug\Exercicio - Dados do Produto.exe
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio - Dados do Produto\Exercicio - Dados do Produto\bin\Debug\Exercicio - Dados do Produto.pdb
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio - Dados do Produto\Exercicio - Dados do Produto\obj\Debug\Exercicio - Dados do Produto.exe
+C:\Users\thiri\Pictures\Estudos\Udemy - C#\EXERCICIOS DO MATERIAL DE APOIO\Exercicio - Dados do Produto\Exercicio - Dados do Produto\obj\Debug\Exercicio - Dados do Produto.pdb
